@@ -284,11 +284,11 @@ Contributions are welcome! Please:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [MIT](LICENSE) file for details.
 
 ## 📞 Contact
 
-For questions or issues, please open a GitHub issue or contact [your-email@example.com].
+For questions or issues, please open a GitHub issue or contact [pradha14@purdue.edu].
 
 ---
 
